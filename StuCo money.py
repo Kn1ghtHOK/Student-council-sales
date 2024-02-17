@@ -1,16 +1,16 @@
 drink1 = "Caprisun"
 drink2 = "Sprite"
 drink3 = "Juice"
-drink4 = "Horse Urine"
-drink5 = "Pond Water"
-drink6 = "Blood of my Enemies"
+drink4 = "drink4"
+drink5 = "drink5"
+drink6 = "drink6"
 
 snack1 = "Cheetoes"
-snack2 = "Red Doritoes (the worse flavor)"
-snack3 = "Blue Doritoes (the better flavor)"
-snack4 = "Horse Poop"
-snack5 = "Salt Chunks"
-snack6 = "Dried Blood of my Enemies"
+snack2 = "Red Doritoes"
+snack3 = "Blue Doritoes"
+snack4 = "Fritoes"
+snack5 = "Takis"
+snack6 = "Lays"
 
 def main():
 
