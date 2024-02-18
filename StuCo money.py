@@ -13,6 +13,7 @@ def main():
         if choice == '1':
             drinkIndex = int(input(f"{GetPrompt(drinks)}\n"))-1
             if drinkIndex == -1:
+                print("\n\nResetting Now!\n\n")
                 ResetScreen()
                 continue
             print(f"You chose {drinks[drinkIndex]}!\n")
@@ -20,6 +21,7 @@ def main():
         if choice == '2':
             snackIndex = int(input(f"{GetPrompt(snacks)}\n"))-1
             if snackIndex == -1:
+                print("\n\nResetting Now!\n\n")
                 ResetScreen()
                 continue
             print(f"You chose {snacks[snackIndex]}!\n")
